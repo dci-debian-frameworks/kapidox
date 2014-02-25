@@ -4,7 +4,8 @@ Priority: optional
 Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 XSBC-Original-Maintainer: Scarlett Clark <scarlett@scarlettgatelyclark.com>
 Build-Depends: debhelper (>= 9.0.0), cmake, pkg-kde-tools,
- extra-cmake-modules, qtbase5-dev, libkf5i18n-dev, libkf5config-dev, libkf5kjs-dev
+ extra-cmake-modules (>= 0.0.10), qtbase5-dev, libkf5i18n-dev (>= 4.96.0), libkf5config-dev (>= 4.96.0), libkf5kjs-dev (>= 4.96.0),
+ python-all-dev, dh-python, python-setuptools
 Standards-Version: 3.9.5
 Homepage: https://projects.kde.org/projects/frameworks/kapidox
  
@@ -12,6 +13,6 @@ Package: kapidox
 Architecture: any
 Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: python, ${shlibs:Depends}, ${misc:Depends}
 Description: API documentation generation and assets for frameworks.
  Framework to aid in creating API documentation for KDE Frameworks.

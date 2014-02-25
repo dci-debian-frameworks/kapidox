@@ -1,0 +1,6 @@
+debian/kapidox/usr/share/kapidox/kapidox/__init__.pyc
+debian/kapidox/usr/share/kapidox/kapidox/doxyfilewriter.pyc
+debian/kapidox/usr/share/kapidox/kapidox/depdiagram/__init__.pyc
+debian/kapidox/usr/share/kapidox/kapidox/depdiagram/block.pyc
+debian/kapidox/usr/share/kapidox/kapidox/depdiagram/framework.pyc
+debian/kapidox/usr/share/kapidox/kapidox/depdiagram/frameworkdb.pyc
