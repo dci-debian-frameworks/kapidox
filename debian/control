@@ -6,7 +6,7 @@ XSBC-Original-Maintainer: Scarlett Clark <scarlett@scarlettgatelyclark.com>
 Build-Depends: cmake,
                debhelper (>= 9.0.0),
                dh-python,
-               extra-cmake-modules (>= 0.0.13),
+               extra-cmake-modules (>= 0.0.14),
                pkg-kde-tools,
                python-all-dev,
                python-setuptools,
