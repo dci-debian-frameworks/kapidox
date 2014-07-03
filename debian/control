@@ -9,6 +9,7 @@ Build-Depends: cmake,
                extra-cmake-modules (>= 0.0.14),
                pkg-kde-tools,
                python-all-dev,
+               python3-all-dev,
                python-setuptools,
                qtbase5-dev
 Standards-Version: 3.9.5
