@@ -1,15 +1,26 @@
-kapidox (5.0.0-0ubuntu1) UNRELEASED; urgency=medium
+kapidox (5.0.0-0ubuntu1) utopic; urgency=medium
 
   [ Jonathan Riddell ]
   * Initial stable upstream release
-  * Add lintian-overrides for source-is-missing, the source is in the
-    tar now
 
   [ Scarlett Clark ]
   * Update watch file to stable
-  * Add VCS
+  * Add VCS header fields
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 03 Jul 2014 16:56:12 +0200
+  [ Scott Kitterman ]
+  * Rework packaging to just build as a python app and not use redundant CMake
+    tools
+    - Simplify debian/rules
+    - Drop unneeded build-depends
+    - Make kapidox arch all
+  * Improve package description
+  * Add missing depends on python-jinja2 and python-yaml
+  * Add libgv-python as Recommends (since it is optional, but should usually
+    be used)
+  * Add lintian-overrides for source-is-missing, the source is in the
+    tar now
+
+ -- Scott Kitterman <scott@kitterman.com>  Fri, 11 Jul 2014 11:46:51 -0400
 
 kapidox (4.100.0-0ubuntu1) utopic; urgency=medium
 

@@ -1,19 +1,6 @@
 #!/usr/bin/make -f
 # -*- makefile -*-
 
-include /usr/share/pkg-kde-tools/qt-kde-team/2/debian-qt-kde.mk
-
-export PYBUILD_NAME=kapidox
-
 %:
-	dh $@ --with python2,python3 --buildsystem=pybuild 
+	dh $@ --with python2 --buildsystem=python_distutils
 
-override_dh_auto_install:
-	python setup.py install --root=debian/kapidox --install-layout=deb --install-data=/usr/share/kapidox --install-lib=/usr/share/kapidox --install-scripts=/usr/share/kapidox 
-	dh_python2
-
-override_dh_auto_build:
-
-override_dh_clean:
-	rm -rf build
-	$(overridden_command)
