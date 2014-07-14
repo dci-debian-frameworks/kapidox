@@ -29,9 +29,7 @@ License: BSD 2 Clause
  THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 Files: debian/*
-       src/doxygen.sh
 Copyright: 2014 Scarlett Clark <scarlett@scarlettgatelyclark.com>
-           2005 Adriaan de Groot
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
