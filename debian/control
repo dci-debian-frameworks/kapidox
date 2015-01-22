@@ -6,7 +6,7 @@ Uploaders: Scott Kitterman <scott@kitterman.com>, Scarlett Clark <scarlett@scarl
 Build-Depends: debhelper (>= 9),
                dh-python,
                python,
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/frameworks/kapidox
 Vcs-Browser: http://anonscm.debian.org/viewvc/python-apps/packages/kapidox/trunk
 Vcs-Svn: svn://anonscm.debian.org/python-apps/packages/kapidox/trunk
