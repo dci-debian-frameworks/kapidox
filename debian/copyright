@@ -3,12 +3,12 @@ Upstream-Name: kapidox
 Source: https://projects.kde.org/projects/frameworks/kapidox
 
 Files: *
-Copyright: 2014  Alex Merry <alex.merry@kdemail.net>
-           2014  Aurélien Gâteau <agateau@kde.org>
-           2014  Alex Turbov <i.zaufi@gmail.com>
+Copyright: 2014 Alex Merry <alex.merry@kdemail.net>
+           2014 Aurélien Gâteau <agateau@kde.org>
+           2014 Alex Turbov <i.zaufi@gmail.com>
            2014 Scarlett Clark <scarlett@scarlettgatelyclark.com>
            2014 Scott Kitterman <scott@kitterman.com>
-License: BSD 2 Clause
+License: BSD-2-clause
  Redistribution and use in source and binary forms, with or without
  modification, are permitted provided that the following conditions
  are met:
@@ -30,9 +30,10 @@ License: BSD 2 Clause
  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
  THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-Files: src/jquery/jquery-2.1.0.js 
+Files: src/jquery/jquery-2.1.0.js
+       src/jquery/README.md
        src/kapidox/data/htmlresource/jquery-2.1.0.min.js
-Copyright: 2005, 2013 2014 jQuery Foundation, Inc. and other contributors
+Copyright: 2005-2014 jQuery Foundation, Inc. and other contributors
 License: Expat
   Permission is hereby granted, free of charge, to any person obtaining
   a copy of this software and associated documentation files (the
