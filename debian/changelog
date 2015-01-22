@@ -2,6 +2,7 @@ kapidox (5.6.0-1~) UNRELEASED; urgency=medium
 
   * New upstream release (5.6.0).
   * Bump Standards-Version to 3.9.6, no changes needed.
+  * Add myself to the Uploaders field.
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 22 Jan 2015 16:27:53 +0100
 
