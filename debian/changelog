@@ -1,9 +1,5 @@
 kapidox (5.7.0-0ubuntu1) vivid; urgency=medium
 
-  [ Jonathan Riddell ]
-  * New upstream release
-
-  [ Harald Sitter ]
   * New upstream release
 
  -- Harald Sitter <sitter@kde.org>  Tue, 10 Feb 2015 16:58:46 +0100
