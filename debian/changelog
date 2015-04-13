@@ -1,10 +1,10 @@
-kapidox (5.9.0-0ubuntu1) UNRELEASED; urgency=medium
+kapidox (5.9.0-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
   * Add override_dh_auto_clean to keep git-buildpackage happy by
     ignoring errors
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 13 Apr 2015 22:18:05 +0200
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 13 Apr 2015 22:22:12 +0200
 
 kapidox (5.8.0-0ubuntu1) vivid; urgency=medium
 
