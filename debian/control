@@ -2,15 +2,16 @@ Source: kapidox
 Section: libs
 Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Uploaders: Scott Kitterman <scott@kitterman.com>, Scarlett Clark <scarlett@scarlettgatelyclark.com>
-Build-Depends: debhelper (>= 9.0.0),
+Uploaders: Scott Kitterman <scott@kitterman.com>,
+           Scarlett Clark <scarlett@scarlettgatelyclark.com>,
+           Maximiliano Curia <maxy@debian.org>
+Build-Depends: debhelper (>= 9),
                dh-python,
                python,
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/frameworks/kapidox
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kapidox.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/frameworks/kapidox.git
-X-Python-Version: 2.7
 
 Package: kapidox
 Architecture: all
