@@ -1,0 +1,10 @@
+kapidox: image-file-in-usr-lib usr/lib/python2.7/dist-packages/kapidox/data/htmlresource/block_title_bottom.png
+kapidox: image-file-in-usr-lib usr/lib/python2.7/dist-packages/kapidox/data/htmlresource/block_title_mid.png
+kapidox: image-file-in-usr-lib usr/lib/python2.7/dist-packages/kapidox/data/htmlresource/block_title_top.png
+kapidox: image-file-in-usr-lib usr/lib/python2.7/dist-packages/kapidox/data/htmlresource/icons/bad.png
+kapidox: image-file-in-usr-lib usr/lib/python2.7/dist-packages/kapidox/data/htmlresource/icons/ok.png
+kapidox: image-file-in-usr-lib usr/lib/python2.7/dist-packages/kapidox/data/htmlresource/icons/warning.png
+kapidox: image-file-in-usr-lib usr/lib/python2.7/dist-packages/kapidox/data/htmlresource/top-kde.jpg
+kapidox: image-file-in-usr-lib usr/lib/python2.7/dist-packages/kapidox/data/htmlresource/top-left.jpg
+kapidox: image-file-in-usr-lib usr/lib/python2.7/dist-packages/kapidox/data/htmlresource/top-right.jpg
+kapidox: image-file-in-usr-lib usr/lib/python2.7/dist-packages/kapidox/data/htmlresource/top.jpg
