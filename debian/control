@@ -3,10 +3,9 @@ Section: libs
 Priority: optional
 Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 XSBC-Original-Maintainer: Python Applications Packaging Team <python-apps-team@lists.alioth.debian.org>
-Uploaders: Scott Kitterman <scott@kitterman.com>, Scarlett Clark <scarlett@scarlettgatelyclark.com>
-Build-Depends: debhelper (>= 9.0.0),
-               dh-python,
-               python,
+Uploaders: Scott Kitterman <scott@kitterman.com>,
+           Scarlett Clark <scarlett@scarlettgatelyclark.com>
+Build-Depends: debhelper (>= 9.0.0), dh-python, python
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/frameworks/kapidox
 Vcs-Browser: http://anonscm.debian.org/viewvc/python-apps/packages/kapidox/trunk
@@ -15,7 +14,7 @@ X-Python-Version: 2.7
 
 Package: kapidox
 Architecture: all
-Depends: ${python:Depends}, python-jinja2, python-yaml, ${misc:Depends}
+Depends: python-jinja2, python-yaml, ${misc:Depends}, ${python:Depends}
 Recommends: libgv-python
 Description: API documentation generation tool for KDE frameworks
  Framework to aid in creating API documentation for KDE Frameworks in a

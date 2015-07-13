@@ -30,7 +30,7 @@ License: BSD 2 Clause
  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
  THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-Files: src/jquery/jquery-2.1.0.js 
+Files: src/jquery/jquery-2.1.0.js
        src/kapidox/data/htmlresource/jquery-2.1.0.min.js
 Copyright: 2005, 2013 2014 jQuery Foundation, Inc. and other contributors
 License: Expat
