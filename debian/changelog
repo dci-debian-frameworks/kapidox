@@ -1,4 +1,4 @@
-kapidox (5.13.0-1~) UNRELEASED; urgency=medium
+kapidox (5.13.0-1) unstable; urgency=medium
 
   [ Scott Kitterman ]
   * Add debian/kapidox.lintian-overrides for image-file-in-usr-lib since
@@ -7,7 +7,7 @@ kapidox (5.13.0-1~) UNRELEASED; urgency=medium
   [ Maximiliano Curia ]
   * New upstream release (5.13.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 27 Aug 2015 15:24:04 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 27 Aug 2015 18:36:00 +0200
 
 kapidox (5.12.0-1) unstable; urgency=medium
 
