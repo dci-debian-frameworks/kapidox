@@ -1,9 +1,13 @@
-kapidox (5.12.0-2) UNRELEASED; urgency=medium
+kapidox (5.13.0-1~) UNRELEASED; urgency=medium
 
+  [ Scott Kitterman ]
   * Add debian/kapidox.lintian-overrides for image-file-in-usr-lib since
     arch independent data for Python packages is a special case for /usr/lib
 
- -- Scott Kitterman <scott@kitterman.com>  Sat, 11 Jul 2015 12:12:49 -0400
+  [ Maximiliano Curia ]
+  * New upstream release (5.13.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 27 Aug 2015 15:24:04 +0200
 
 kapidox (5.12.0-1) unstable; urgency=medium
 
