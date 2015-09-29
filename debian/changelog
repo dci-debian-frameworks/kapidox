@@ -1,10 +1,27 @@
-kapidox (5.14.0-0ubuntu1) UNRELEASED; urgency=medium
+kapidox (5.14.0-0ubuntu1) wily; urgency=medium
+
+  [ Clive Johnston ]
+  * new upstream release
+
+  [ Scarlett Clark ]
+  * Vivid backport. 
+  * Fix copyright shortname.
+  * Fix Vcs entries to point to git.
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 29 Sep 2015 14:23:40 +0200   
+
+kapidox (5.13.0-0ubuntu1) wily; urgency=medium
+
+  * new upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 10 Aug 2015 12:47:17 +0200
+
+kapidox (5.12.0-0ubuntu1) wily; urgency=medium
 
   * New upstream release. 
   * Vivid backport. 
-  * Vivid backport
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 29 Sep 2015 14:16:26 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 03 Aug 2015 14:23:40 +0200
 
 kapidox (5.10.0-0ubuntu1) wily; urgency=medium
 
