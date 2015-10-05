@@ -1,4 +1,4 @@
-kapidox (5.14.0-0ubuntu1) UNRELEASED; urgency=medium
+kapidox (5.15.0-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Clive Johnston ]
   * new upstream release
@@ -9,7 +9,10 @@ kapidox (5.14.0-0ubuntu1) UNRELEASED; urgency=medium
   * Fix Vcs entries to point to git.
   * Copyright shortname change again. 
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 29 Sep 2015 14:23:40 +0200
+  [ Jonathan Riddell ]
+  * new upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 05 Oct 2015 19:10:31 +0100
 
 kapidox (5.13.0-0ubuntu1) wily; urgency=medium
 
