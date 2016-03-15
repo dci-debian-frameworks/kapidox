@@ -5,17 +5,15 @@ Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Scott Kitterman <scott@kitterman.com>,
            Scarlett Clark <scarlett@scarlettgatelyclark.com>,
            Maximiliano Curia <maxy@debian.org>
-Build-Depends: debhelper (>= 9),
-               dh-python,
-               python,
+Build-Depends: debhelper (>= 9), dh-python, python
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/frameworks/kapidox
-Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kapidox.git
-Vcs-Git: git://anonscm.debian.org/pkg-kde/frameworks/kapidox.git
+Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/kapidox.git
+Vcs-Git: https://anonscm.debian.org/pkg-kde/frameworks/kapidox.git
 
 Package: kapidox
 Architecture: all
-Depends: ${python:Depends}, python-jinja2, python-yaml, ${misc:Depends}
+Depends: python-jinja2, python-yaml, ${misc:Depends}, ${python:Depends}
 Recommends: libgv-python
 Description: API documentation generation tool for KDE frameworks
  Framework to aid in creating API documentation for KDE Frameworks in a
