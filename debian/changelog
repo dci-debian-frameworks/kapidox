@@ -1,3 +1,13 @@
+kapidox (5.20.0-1~1.gbpf1debf) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @f1debffa7cb6a5148792f4e94029068b2b3c4499 **
+
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 23 Mar 2016 22:19:01 +0100
+
 kapidox (5.19.0-1) experimental; urgency=medium
 
   * New upstream release (5.19.0).
