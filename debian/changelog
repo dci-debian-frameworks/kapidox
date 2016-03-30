@@ -1,6 +1,6 @@
-kapidox (5.20.0-1~16.gbp161e20) UNRELEASED; urgency=medium
+kapidox (5.20.0-1~17.gbp7e2e5e) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @161e2044c05a7f50ba2c6d4cef21d838329afc0b **
+  ** SNAPSHOT build @7e2e5e4b0450c8719a0abf15a6ae072bfcd512f9 **
 
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
@@ -20,8 +20,9 @@ kapidox (5.20.0-1~16.gbp161e20) UNRELEASED; urgency=medium
   * UNRELEASED
   * UNRELEASED
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 29 Mar 2016 23:20:47 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 30 Mar 2016 10:16:37 +0200
 
 kapidox (5.19.0-1) experimental; urgency=medium
 
