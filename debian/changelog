@@ -1,11 +1,18 @@
-kapidox (5.21.0-1~1.gbpbf9953) UNRELEASED; urgency=medium
+kapidox (5.21.0-1~2.gbp0bea72) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @0bea72d270b7bacfbf19b6f2660295be615893a7 **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @bf9953ee210c8290ba4eea481487bfe448ffeaa8 **
 
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * Add a .gitattributes file to use dpkg-mergechangelogs
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Sun, 10 Apr 2016 01:16:08 +0200
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 18 Apr 2016 20:16:17 +0200
 
 kapidox (5.19.0-1) experimental; urgency=medium
 
