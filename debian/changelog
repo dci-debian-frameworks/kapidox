@@ -1,10 +1,8 @@
-kapidox (5.25.0-1~1.gbpd7fefa) UNRELEASED; urgency=medium
+kapidox (5.25.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @d7fefa932b79dfeba9490d897b48125751f69113 **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Sat, 13 Aug 2016 13:16:10 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 18 Aug 2016 17:20:55 +0200
 
 kapidox (5.24.0-1) unstable; urgency=medium
 
