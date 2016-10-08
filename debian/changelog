@@ -1,3 +1,11 @@
+kapidox (5.27.0-1~1.gbp4dae36) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @4dae36d87942adf3419664e95d54664316760acf **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Sat, 08 Oct 2016 13:16:24 +0200
+
 kapidox (5.26.0-1) unstable; urgency=medium
 
   * New upstream release.
