@@ -1,10 +1,8 @@
-kapidox (5.28.0-1~1.gbp80a7eb) UNRELEASED; urgency=medium
+kapidox (5.28.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @80a7eb460f8b26fe674e3dba02451a2d31f966c7 **
+  * New upstream release (5.28)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 15 Nov 2016 17:33:27 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 18 Nov 2016 16:00:20 +0100
 
 kapidox (5.27.0-1) unstable; urgency=medium
 
