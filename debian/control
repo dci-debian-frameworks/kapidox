@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Scott Kitterman <scott@kitterman.com>,
            Scarlett Clark <scarlett@scarlettgatelyclark.com>,
-           Maximiliano Curia <maxy@debian.org>
+           Maximiliano Curia <maxy@debian.org>,
 Build-Depends: debhelper (>= 9), dh-python, python
 Standards-Version: 4.0.1
 Homepage: https://projects.kde.org/projects/frameworks/kapidox
