@@ -60,7 +60,6 @@ kapidox (5.36.0-1) experimental; urgency=medium
   * Lintian override for the minimized jquery, to be replaced
   * watch: Use https uris
   * New upstream release (5.36.0).
-  * UNRELEASED
 
   [ Raymond Wooninck ]
   * Add signing key
@@ -245,16 +244,6 @@ kapidox (5.18.0-1) experimental; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 27 Jan 2016 13:33:36 +0100
 
-kapidox (5.18.0-0ubuntu1) UNRELEASED; urgency=medium
-
-  [ Scarlett Clark ]
-  * New upstream release Xenial
-
-  [ Philip Muškovac ]
-  * New upstream release
-
- -- Philip Muškovac <yofel@kubuntu.org>  Wed, 06 Jan 2016 14:55:18 +0100
-
 kapidox (5.16.0-1) unstable; urgency=medium
 
   * New upstream release (5.16.0).
@@ -267,22 +256,16 @@ kapidox (5.15.0-1) unstable; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 09 Oct 2015 19:16:05 +0200
 
-kapidox (5.15.0-0ubuntu2) UNRELEASED; urgency=medium
-
-  * Vivid backport. 
-
- -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 08 Oct 2015 20:27:18 -0700
-
 kapidox (5.15.0-0ubuntu1) wily; urgency=medium
 
   [ Clive Johnston ]
   * new upstream release
 
   [ Scarlett Clark ]
-  * Vivid backport. 
+  * Vivid backport.
   * Fix copyright shortname.
   * Fix Vcs entries to point to git.
-  * Copyright shortname change again. 
+  * Copyright shortname change again.
 
   [ Jonathan Riddell ]
   * new upstream release
@@ -321,8 +304,8 @@ kapidox (5.12.0-1) unstable; urgency=medium
 
 kapidox (5.12.0-0ubuntu1) wily; urgency=medium
 
-  * New upstream release. 
-  * Vivid backport. 
+  * New upstream release.
+  * Vivid backport.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 03 Aug 2015 14:23:40 +0200
 
