@@ -6,7 +6,7 @@ Uploaders: Scott Kitterman <scott@kitterman.com>,
            Scarlett Clark <scarlett@scarlettgatelyclark.com>,
            Maximiliano Curia <maxy@debian.org>,
 Build-Depends: debhelper (>= 11~), dh-python, python
-Standards-Version: 4.1.2
+Standards-Version: 4.1.3
 Homepage: https://projects.kde.org/projects/frameworks/kapidox
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/frameworks/kapidox.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/frameworks/kapidox.git
